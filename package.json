@@ -1,0 +1,14 @@
+{
+  "name": "metalsmith-less",
+  "version": "1.0.0",
+  "description": "A Metalsmith plugin to compile less",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Metalsmith"
+  ],
+  "author": "Michael Wildman",
+  "license": "MIT"
+}
