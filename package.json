@@ -1,14 +1,18 @@
 {
   "name": "metalsmith-less",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Metalsmith plugin to compile less",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "./lib/index.js",
   "keywords": [
-    "Metalsmith"
+    "metalsmith",
+    "metalsmith-plugin",
+    "less",
+    "css"
   ],
-  "author": "Michael Wildman",
-  "license": "MIT"
+  "author": "Michael Wildman <michael@mwild.me>",
+  "license": "MIT",
+  "dependencies": {
+    "less": "*",
+    "less-plugin-autoprefix": "*"
+  }
 }
