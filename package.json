@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-lesser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A (tiny) Metalsmith plugin to compile less",
   "main": "./lib/index.js",
   "keywords": [
@@ -10,6 +10,10 @@
     "css"
   ],
   "author": "Michael Wildman <michael@mwild.me>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tehmantra/metalsmith-lesser"
+  },
   "license": "MIT",
   "devDependencies": {
     "less": "latest"
