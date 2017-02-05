@@ -1,7 +1,5 @@
 # metalsmith-lesser
 
-[![Build Status](https://travis-ci.org/tehmantra/metalsmith-lesser.svg?branch=master)](https://travis-ci.org/tehmantra/metalsmith-lesser)
-
 A Metalsmith plugin to compile less
 
 https://www.npmjs.com/package/metalsmith-lesser
