@@ -1,7 +1,7 @@
 {
-  "name": "metalsmith-less",
+  "name": "metalsmith-lesser",
   "version": "1.0.1",
-  "description": "A Metalsmith plugin to compile less",
+  "description": "A (tiny) Metalsmith plugin to compile less",
   "main": "./lib/index.js",
   "keywords": [
     "metalsmith",
