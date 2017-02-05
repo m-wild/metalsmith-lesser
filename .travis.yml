@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "node"
+script:
+  - echo "todo-- write some tests"
+deploy:
+  provider: npm
+  email: "wildsimulation@gmail.com"
+notifications:
+  email: false
